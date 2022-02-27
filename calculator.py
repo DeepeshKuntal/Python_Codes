@@ -20,3 +20,6 @@ if c == "/":
 #Statement to make multiplication work,
 if c == "X":
     print("Dont Use CapsLock Pls Try x")
+#Adding some more stuff to multiplication
+if c== "*":
+    print("The Multiplication Of The Numbers Is ", a*b)
